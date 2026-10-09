@@ -7,8 +7,8 @@ def prim(x):
             return False 
     return True  
 
-n=int(input("citeste n "))
+n=int(input)
 n=n+1 
 while not prim(n): 
     n=n+1 
-print(n)
+print(n) 
